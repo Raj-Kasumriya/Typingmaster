@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+#bgImg {
+
+    background-image: url("https://i.postimg.cc/k4cMx9kf/IMG-20250323-WA0032.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#bgImgTypeTest {
+
+    background-image: url("https://i.postimg.cc/L5YdpMzT/IMG-20250323-WA0006.jpg");
+    background-position: center;
+    background-size: cover;
+}
